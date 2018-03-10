@@ -1,0 +1,16 @@
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\x86\Debug\database\mysqlite.db
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\x86\Debug\cjz.exe.config
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\x86\Debug\cjz.exe
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\x86\Debug\cjz.pdb
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\x86\Debug\Aspose.Cells.dll
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\x86\Debug\System.Data.SQLite.dll
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.BaoXiaoFrm.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.FCompleteBaoxiao.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.Form1.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.NewProjectFolder.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.Properties.Resources.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.ScholzFrm.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.csproj.GenerateResource.Cache
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.exe
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.pdb
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\x86\Debug\cjz.csprojResolveAssemblyReference.cache

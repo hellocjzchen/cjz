@@ -1,0 +1,41 @@
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\Release\cjz.exe.config
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\Release\cjz.exe
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\Release\cjz.pdb
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\bin\Release\Aspose.Cells.dll
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.BaoXiaoFrm.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.FCompleteBaoxiao.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.Form1.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.NewProjectFolder.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.Properties.Resources.resources
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.csproj.GenerateResource.Cache
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.exe
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.pdb
+d:\document\documents\visual studio 2015\Projects\cjz\cjz\obj\Release\cjz.csprojResolveAssemblyReference.cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\img\CreatePJ.png
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\dll\MyNumberBox.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\database\mysqlite.db
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\cjz.exe.config
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\cjz.exe
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\cjz.pdb
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\AppControl.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\Aspose.Cells.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\listviewcontrol.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\MyNumberBox.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\bin\Release\System.Data.SQLite.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.csprojResolveAssemblyReference.cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.CmpPJFrm.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.baoxiaoDatabaseFrm.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.BaoXiaoFrm.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.browserFrm.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.FCompleteBaoxiao.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.Form1.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.User_interface.Frecord.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.MainFrm.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.NewProjectFolder.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.Properties.Resources.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.ScholzFrm.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.csproj.GenerateResource.Cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.exe
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.pdb
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.User_interface.SystemManager.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\cjz\obj\Release\cjz.User_interface.Fapplication.resources

@@ -1,0 +1,9 @@
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版 - 改进\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

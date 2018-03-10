@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exe>
+  <field>
+    <exeName>ps</exeName>
+    <path>F:\常用软件\adobe 系列\AdobePhotoshopCS6_x64_33lc.com\Photoshop.exe</path>
+  </field>
+  <field>
+    <exeName>s7</exeName>
+    <path>F:\program files (x86)\Siemens\Step7\S7BIN\S7tgtopx.exe</path>
+  </field>
+  <field>
+    <exeName>wechat</exeName>
+    <path>C:\Program Files (x86)\Tencent\WeChat\WeChat.exe</path>
+  </field>
+  <field>
+    <exeName>qq</exeName>
+    <path>E:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe</path>
+  </field>
+  <field>
+    <exeName>cad</exeName>
+    <path>F:\Program Files\Autodesk\AutoCAD 2016\acad.exe</path>
+  </field>
+  <field>
+    <exeName>onenote</exeName>
+    <path>F:\Program Files\Microsoft Office\Office15\ONENOTE.EXE</path>
+  </field>
+  <field>
+    <exeName>sinatrain</exeName>
+    <path>C:\Program Files (x86)\Siemens\SinutrainOperate\04.05.01\sinutrain.exe</path>
+  </field>
+  <field>
+    <exeName>StarUML</exeName>
+    <path>F:\program files (x86)\StarUML\StarUML.exe</path>
+  </field>
+  <field>
+    <exeName>radio</exeName>
+    <path>F:\常用软件\网络收音机\cradio_chs\CRadio.exe</path>
+  </field>
+  <field>
+    <exeName>pindesk</exeName>
+    <path>F:\常用软件\桌面窗体置顶软件\DeskPins 1.3.0\DeskPins.exe</path>
+  </field>
+  <field>
+    <exeName>pcmaster</exeName>
+    <path>F:\常用软件\pcmaster_6.13_full\PCMaster\pcmaster.exe</path>
+  </field>
+  <field>
+    <exeName>机械专业英语词典</exeName>
+    <path>F:\常用软件\dict\机械专业英语词典.exe</path>
+  </field>
+  <field>
+    <exeName>LeapFTP</exeName>
+    <path>F:\常用软件\ftp工具\LeapFTP3.0.1.46_yfy\LeapFTP3.0.1.46_yfy\LeapFTP.exe</path>
+  </field>
+  <field>
+    <exeName>geek</exeName>
+    <path>F:\常用软件\GeekUninstaller_1.3.4.52_XiaZaiBa\geek.exe</path>
+  </field>
+  <field>
+    <exeName>fg759p</exeName>
+    <path>F:\常用软件\翻墙软件\fg755p\fg759p.exe</path>
+  </field>
+  <field>
+    <exeName>Binary Viewer</exeName>
+    <path>F:\常用软件\BinaryViewer\Binary Viewer.exe</path>
+  </field>
+  <field>
+    <exeName>LanSee</exeName>
+    <path>F:\常用软件\lansee-v1.75\LanSee.exe</path>
+  </field>
+  <field>
+    <exeName>JPEG Resizer</exeName>
+    <path>F:\常用软件\JPEG Resizer\JPEG Resizer.exe</path>
+  </field>
+  <field>
+    <exeName>mfwifizs</exeName>
+    <path>F:\常用软件\magicwifi\mfwifizs.exe</path>
+  </field>
+  <field>
+    <exeName>CCleaner</exeName>
+    <path>F:\常用软件\ccleaner_plus\CCleaner.exe</path>
+  </field>
+  <field>
+    <exeName>MyNote</exeName>
+    <path>F:\常用软件\笔记本\MyNote2014.12.4.1\MyNote\MyNote.exe</path>
+  </field>
+  <field>
+    <exeName>EfficientStickyNotes</exeName>
+    <path>F:\常用软件\效能桌面便笺\EfficientStickyNotes.exe</path>
+  </field>
+  <field>
+    <exeName>专用播放器</exeName>
+    <path>D:\baiduyun download\专用播放器.exe</path>
+  </field>
+</exe>

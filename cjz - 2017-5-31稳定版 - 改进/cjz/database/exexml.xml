@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<exe>
+  <field>
+    <exeName>ps</exeName>
+    <path>F:\常用软件\adobe 系列\AdobePhotoshopCS6_x64_33lc.com\Photoshop.exe</path>
+  </field>
+  <field>
+    <exeName>s7</exeName>
+    <path>F:\program files (x86)\Siemens\Step7\S7BIN\S7tgtopx.exe</path>
+  </field>
+  <field>
+    <exeName>wechat</exeName>
+    <path>C:\Program Files (x86)\Tencent\WeChat\WeChat.exe</path>
+  </field>
+  <field>
+    <exeName>qq</exeName>
+    <path>E:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe</path>
+  </field>
+  <field>
+    <exeName>cad</exeName>
+    <path>F:\Program Files\Autodesk\AutoCAD 2016\acad.exe</path>
+  </field>
+  <field>
+    <exeName>onenote</exeName>
+    <path>F:\Program Files\Microsoft Office\Office15\ONENOTE.EXE</path>
+  </field>
+  <field>
+    <exeName>sinatrain</exeName>
+    <path>C:\Program Files (x86)\Siemens\SinutrainOperate\04.05.01\sinutrain.exe</path>
+  </field>
+  <field>
+    <exeName>StarUML</exeName>
+    <path>F:\program files (x86)\StarUML\StarUML.exe</path>
+  </field>
+  <field>
+    <exeName>radio</exeName>
+    <path>F:\常用软件\网络收音机\cradio_chs\CRadio.exe</path>
+  </field>
+  <field>
+    <exeName>pindesk</exeName>
+    <path>F:\常用软件\桌面窗体置顶软件\DeskPins 1.3.0\DeskPins.exe</path>
+  </field>
+</exe>

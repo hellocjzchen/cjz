@@ -1,0 +1,10 @@
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-28\AppControl\bin\Debug\AppControl.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-28\AppControl\bin\Debug\AppControl.pdb
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-28\AppControl\obj\Debug\AppControl.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-28\AppControl\obj\Debug\AppControl.pdb
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-28\AppControl\obj\Debug\AppControl.csprojResolveAssemblyReference.cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版\AppControl\bin\Debug\AppControl.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版\AppControl\bin\Debug\AppControl.pdb
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版\AppControl\obj\Debug\AppControl.csprojResolveAssemblyReference.cache
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版\AppControl\obj\Debug\AppControl.dll
+D:\document\Documents\Visual Studio 2015\Projects\cjz - 2017-5-31稳定版\AppControl\obj\Debug\AppControl.pdb
